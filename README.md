@@ -2,6 +2,7 @@
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jwrobbs&theme=tokyonight" alt="mystreak"/>
 -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=jwrobbs&theme=gruvbox-duo&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jwrobbs&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&size_weight=0&count_weight=1" alt="ovi" />
 
 
