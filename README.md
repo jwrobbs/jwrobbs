@@ -2,7 +2,8 @@
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jwrobbs&theme=tokyonight" alt="mystreak"/>
 -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jwrobbs&theme=gruvbox-duo&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jwrobbs&theme=iceberg&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+<p>2024-01-14 The builder is working. Not sure what the current issue. Will leave it in place and check on it in a few days.</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jwrobbs&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&size_weight=0&count_weight=1" alt="ovi" />
 
