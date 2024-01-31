@@ -15,6 +15,6 @@
 
 <div align=center>
 Connect with me at: 
-<a href='https://www.linkedin.com/in/joshuarobbs/><img alt="Static Badge" src="https://img.shields.io/badge/JoshuaRobbs-LinkedIn?style=flat&logo=linkedin&logoColor=%23ffffff&labelColor=%230A66C2&color=%230A66C2">
-</a><a href='https://twitter.com/_JoshRobbs'><img alt="Static Badge" src="https://img.shields.io/badge/__JoshRobbs-Twitter?style=flat&logo=x&logoColor=%23ffffff&labelColor=%231D9BF0&color=%231D9BF0&link=https%3A%2F%2Ftwitter.com%2F_JoshRobbs"></a>
+<a href='https://www.linkedin.com/in/joshuarobbs/'><img alt="Static Badge" src="https://img.shields.io/badge/JoshuaRobbs-LinkedIn?style=flat&logo=linkedin&logoColor=%23ffffff&labelColor=%230A66C2&color=%230A66C2"></a>
+<a href='https://twitter.com/_JoshRobbs'><img alt="Static Badge" src="https://img.shields.io/badge/__JoshRobbs-Twitter?style=flat&logo=x&logoColor=%23ffffff&labelColor=%231D9BF0&color=%231D9BF0&link=https%3A%2F%2Ftwitter.com%2F_JoshRobbs"></a>
 </div>
