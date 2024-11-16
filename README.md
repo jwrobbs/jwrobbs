@@ -13,6 +13,7 @@
 </div>
 </br>
 <div align=center><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jwrobbs&show_icons=true&locale=en&layout=compact&theme=iceberg&size_weight=0.75&count_weight=.25" alt="ovi" /></div>
+<div>I am currently pruning and reorganizing my repos. Too many duplicate or dead projects.</div>
 </br>
 <div align=center>
 Connect with me at: 
