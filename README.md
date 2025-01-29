@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<div align=center><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jwrobbs&theme=iceberg&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a></div>
-</br>
+<!--<div align=center><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jwrobbs&theme=iceberg&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a></div>
+</br>-->
 <div align=center>
   <img alt="Static Badge" src="https://img.shields.io/badge/WordPress-WordPress?style=flat&logo=wordpress&logoColor=%23ffffff&labelColor=%2321759B&color=%2321759B">
   <img alt="Static Badge" src="https://img.shields.io/badge/PHP-PHP?style=flat&logo=php&logoColor=%23ffffff&labelColor=%23777BB4&color=%23777BB4">
