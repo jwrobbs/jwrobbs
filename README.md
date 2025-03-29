@@ -11,6 +11,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-JavaScript?style=flat&logo=javascript&logoColor=%23000000&labelColor=%23F7DF1E&color=%23F7DF1E">
   <img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-VS%20Code?style=flat&logo=visual%20studio%20code&logoColor=%23ffffff&labelColor=%23007ACC&color=%23007ACC">
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jwrobbs)](https://git.io/streak-stats)
 </br>
 <div align=center><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jwrobbs&show_icons=true&locale=en&layout=compact&theme=iceberg&size_weight=0.75&count_weight=.25" alt="ovi" /></div>
 <div>I am currently pruning and reorganizing my repos. Too many duplicate or dead projects.</div>
