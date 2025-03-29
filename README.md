@@ -11,6 +11,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-JavaScript?style=flat&logo=javascript&logoColor=%23000000&labelColor=%23F7DF1E&color=%23F7DF1E">
   <img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-VS%20Code?style=flat&logo=visual%20studio%20code&logoColor=%23ffffff&labelColor=%23007ACC&color=%23007ACC">
 </div>
+</br>
 <div align=center><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jwrobbs&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a></div>
 </br>
 <div align=center><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jwrobbs&show_icons=true&locale=en&layout=compact&theme=iceberg&size_weight=0.75&count_weight=.25" alt="ovi" /></div>
